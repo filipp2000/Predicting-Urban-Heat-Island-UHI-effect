@@ -1,6 +1,6 @@
 # Predicting-Urban-Heat-Island-UHI-effect
 
-This project focuses on building a machine learning model that predicts the Urban Heat Island (UHI) Index for New York City by combining **satellite remote sensing (Sentinel-2)**, **building footprints**, and **weather station** data. We engineer multi-scale spatial features (100–750 m buffers) and train a supervised model (Random Forest) to estimate the UHI Index at target locations. Developed for the 2025 EY Open Science AI &amp; Data Challenge to support sustainable urban planning.
+This project focuses on building a machine learning model that predicts the Urban Heat Island (UHI) Index for New York City by combining **satellite remote sensing (Sentinel-2)**, **building footprints**, and **weather station** data. We train a supervised model (Random Forest) to estimate the UHI Index at target locations. Developed for the 2025 EY Open Science AI &amp; Data Challenge to support sustainable urban planning.
 
 
 ## data
